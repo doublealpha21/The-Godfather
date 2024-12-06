@@ -29,7 +29,7 @@ class CounterDisplayState extends State<CounterDisplay> {
           Text(
             'Jobs Applied: $_counter',
             style: const TextStyle(
-              color: Colors.white,
+              color: Colors.yellow,
               fontSize: 16,
             ),
           ),
